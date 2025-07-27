@@ -33,7 +33,7 @@ The objective of this project is to explore and analyze Uber fare data to uncove
 - Created **Peak vs Off-Peak** indicator based on ride time
 
 ### 4. Exported Cleaned Data
-- Saved as `uber_cleaned.csv` for Power BI import
+- Saved as `uber_cleaned.csv` for Power BI import.
 
 
 <img src="C:\Users\HP\OneDrive\Desktop\Intro to big data assignment\uber-fares-dataset\new columns after cleaning.png"/>
