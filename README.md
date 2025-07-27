@@ -36,8 +36,6 @@ The objective of this project is to explore and analyze Uber fare data to uncove
 - Saved as `uber_cleaned.csv` for Power BI import
 
 
-![New Columns](images/new_columns_after_cleaning.png)
-
 
 
 ---
@@ -56,12 +54,15 @@ The objective of this project is to explore and analyze Uber fare data to uncove
 - **Peak vs Off-Peak** ride breakdown
 - **Map** showing geographic pickup points
 
-<img src="images\final dashboard.png"/>
+![Final Dashboard](images/final_dashboard.png)
+
 
 ### 🔹 Busiest Ride Hours
 
 The chart below illustrates the number of Uber rides distributed across each hour of the day.
-<img src="images\busiest hours.png"/>
+![Busiest Hours](images/busiest_hours.png)
+
+
 
 **Insight:**  
 The busiest periods for Uber rides occur during the evening hours, specifically between **6 PM and 9 PM**, followed by a secondary peak in the early morning hours around **6 AM to 9 AM**. These trends align with typical commuter rush hours, highlighting key periods of operational demand.
@@ -71,7 +72,8 @@ To optimize efficiency and service quality, Uber should consider deploying more 
 
 ### 🔹 Average Passengers per Ride
 
-<img src="images\average passengers.png"/>
+![Average Passengers](images/average_passangers.png)
+
 
 **Insight:**  
 The average number of passengers per Uber ride is approximately **1.78**, indicating that most trips are taken by individuals or small groups. This aligns with typical ride-sharing behavior in urban areas, where solo and two-person trips are common.
@@ -123,7 +125,8 @@ This phase explored the distribution and relationships of key variables like far
 - Explored correlations between fare, distance, hour, and passenger count
 
 ### 🔍 EDA Visual Summary
-<img src="images\eda_grid_layout.png"/>
+![EDA Grid Layout](images/eda_grid_layout.png)
+
 
 Below is a combined view of key visualizations:
 
@@ -131,6 +134,7 @@ Below is a combined view of key visualizations:
 - Correlation Matrix (with Passenger Count)
 - Fare Boxplot (Outliers)
 - Fare Distribution Histogram
+
 
 
 Below is a combined view of key visualizations:
