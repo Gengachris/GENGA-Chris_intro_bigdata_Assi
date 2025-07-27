@@ -137,9 +137,6 @@ This phase explored the distribution and relationships of key variables like far
 - Explored correlations between fare, distance, hour, and passenger count
 
 ### 🔍 EDA Visual Summary
-![EDA Grid Layout](eda_grid_layout.png)
-
-
 Below is a combined view of key visualizations:
 
 - Fare Amount vs Hour
@@ -147,11 +144,7 @@ Below is a combined view of key visualizations:
 - Fare Boxplot (Outliers)
 - Fare Distribution Histogram
 
+  ![EDA Grid Layout](eda_grid_layout.png)
 
 
-Below is a combined view of key visualizations:
 
-- Fare Amount vs Hour
-- Correlation Matrix (with Passenger Count)
-- Fare Boxplot (Outliers)
-- Fare Distribution Histogram
