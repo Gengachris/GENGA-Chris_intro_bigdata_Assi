@@ -54,13 +54,13 @@ The objective of this project is to explore and analyze Uber fare data to uncove
 - **Peak vs Off-Peak** ride breakdown
 - **Map** showing geographic pickup points
 
-![Final Dashboard](images/final_dashboard.png)
+![Final Dashboard](final_dashboard.png)
 
 
 ### 🔹 Busiest Ride Hours
 
 The chart below illustrates the number of Uber rides distributed across each hour of the day.
-![Busiest Hours](images/busiest_hours.png)
+![Busiest Hours](busiest_hours.png)
 
 
 
@@ -72,7 +72,7 @@ To optimize efficiency and service quality, Uber should consider deploying more 
 
 ### 🔹 Average Passengers per Ride
 
-![Average Passengers](images/average_passangers.png)
+![Average Passengers](average_passangers.png)
 
 
 **Insight:**  
@@ -125,7 +125,7 @@ This phase explored the distribution and relationships of key variables like far
 - Explored correlations between fare, distance, hour, and passenger count
 
 ### 🔍 EDA Visual Summary
-![EDA Grid Layout](images/eda_grid_layout.png)
+![EDA Grid Layout](eda_grid_layout.png)
 
 
 Below is a combined view of key visualizations:
