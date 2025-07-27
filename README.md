@@ -36,7 +36,8 @@ The objective of this project is to explore and analyze Uber fare data to uncove
 - Saved as `uber_cleaned.csv` for Power BI import
 
 
-<img src="images\new columns after cleaning.png"/>
+![New Columns](images/new_columns_after_cleaning.png)
+
 
 
 ---
