@@ -32,9 +32,21 @@ The objective of this project is to explore and analyze Uber fare data to uncove
   - Day of the week
 - Created **Peak vs Off-Peak** indicator based on ride time
 
+  ### 📄 Cleaned Dataset Preview
+
+The following dataset preview shows newly added time-based features and peak hour classification:
+
+![Cleaned Dataset Preview](new_columns_after_cleaning.png)
+
+
 ### 4. Exported Cleaned Data
 - Saved as `uber_cleaned.csv` for Power BI import
 
+**Power BI Import Preview:**
+
+The cleaned dataset (`uber_cleaned.csv`) was successfully loaded into Power BI for visualization.
+
+![Power BI Cleaned Data](DAX.png)
 
 
 
